@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Percobaan Website</title>
+</head>
+<style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    .heading {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        width: 110%;
+        height: 40px;
+        background-color: black;
+        padding-top: 10px;
+        padding-bottom: 80px;
+        color: aliceblue;
+        text-shadow: whitesmoke;
+    }
+
+    .sejarah-satu {
+        margin-top: 50px;
+    }
+
+    .content {
+        padding: 10px;
+        padding-left: 75px;
+        float: left;
+        width: 1360px;
+        height: 2350px;
+        font-size: 20px;
+    }
+</style>
+<body>
+    <div class="heading">
+        <h4>Tugas Perancangan Website</h4>
+        <h1>Sejarah Internet</h1>
+
+    </div>
+    <div class="content">
+        <div class="sejarah-satu">
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1960</b></label>
+                    <p>Ilmuwan komputer meneliti teknik untuk menghubungkan sistem pada jaringan bersama.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1969</b></label>
+                    <p> <i><b>ARPANET</i></b> (Badan Proyek Penelitian Lanjutan DoD) menghubungkan <i><b>UCLA</i></b>,
+                        <b>Universitas California di Santa
+                            Barbara,
+                            Universitas Utah, dan Stanford Research Institute.</b></p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1975</b></label>
+                    <p>Manajemen Internet ditransfer ke Badan Komunikasi Pertahanan A.S.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1979</b></label>
+                    <p>USENET mulai menawarkan sistem konferensi siaran di seluruh dunia dari newsgroup.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1981</b></label>
+                    <p>BITNET (Karena Saatnya Jaringan) mulai menawarkan server email dan daftar untuk distribusi
+                        informasi.
+                        CSNET (Computer Science Network) menawarkan layanan dial-up untuk email. Orang-orang sekarang
+                        dapat
+                        mengakses Internet menggunakan co-desktop komputer.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1982</b></label>
+                    <p>TCP / IP (Transmission Control Protocol / Internet Protocol) menjadi standar untuk komunikasi
+                        jaringan pada ARPANET.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1983</b></label>
+                    <p>MILNET dan DDN (Defense Data Network) memisahkan diri dari ARPANET.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1984</b></label>
+                    <p>Sistem Domain Name Server (DNS) diperkenalkan.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1986</b></label>
+                    <p>Cleveland FreeNet mulai beroperasi.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1987</b></label>
+                    <p>National Science Foundation (NSF) menandatangani $ 14 juta, perjanjian lima tahun dengan IBM,
+                        MCI,
+                        dan Triad Informasi Penelitian Pendidikan Michigan untuk mengelola jaringan.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1988</b></label>
+                    <p>Robert Morris, Jr. merilis "worm" ke Internet. Banyak komputer terhenti.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1990</b></label>
+                    <p>CERN (Laboratorium Fisika Partikel Eropa di Swiss) mengembangkan World Wide Web.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1991</b></label>
+                    <p>NSF mencabut pembatasan terhadap penggunaan komersial Internet. DoDDS mulai menggunakan CC: Mail.
+                    </p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1992</b></label>
+                    <p>Kongres menetapkan Jaringan Penelitian dan Pendidikan Nasional (NREN) sebagai visi jaringan
+                        nasional
+                        untuk melayani komunitas pendidikan dan penelitian. NREN belum didanai.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1993</b></label>
+                    <p>Presiden Clinton menjadi kepala negara pertama yang menggunakan Internet untuk pengiriman pesan
+                        elektronik. Alamatnya adalah president@whitehouse.gov.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1994</b></label>
+                    <p>Video digital dan transmisi audio melalui Internet.</p>
+                </li>
+            </ul>
+        </div>
+        </br>
+        <div>
+            <ul>
+                <li>
+                    <label><b>Sejarah Tahun 1995</b></label>
+                    <p>The DoDDS schools in Okinawa establish Internet connections.</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
